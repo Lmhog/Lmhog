@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lmhog
-- 👀 I’m interested in Home Assistant
-- 🌱 I’m currently learning Home Assistant
+- 👀 I’m interested in Home Assistant and Homey.
+- 🌱 I’m currently learning Home Assistant in my home, and Homey at my cabin up in the north of the norwegian mountans.
 - 💞️ I’m looking to collaborate on everything :-)
 - 📫 How to reach me lmhogaas@gmail.com
 
